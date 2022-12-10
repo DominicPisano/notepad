@@ -4,7 +4,7 @@
         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DominicPisano/notepad/main/src/NotepadLight.png">
         <img src="https://raw.githubusercontent.com/DominicPisano/notepad/main/src/NotepadLight.png">
     </picture>
-    <p align="center">Notepad is a simple note-taking app built with React and Spring Boot. It allows users to create, read, update, and delete notes, and uses a server to persist the notes in a database. The app uses React Router for navigation and React Hooks for managing state and performing data fetching. The app's API is defined in a `NoteController` class, and the `Note` class represents a single note. The `NoteRepository` interface is used to manage the persistence of notes in the database.</p>
+    <p align="center">Notepad is a simple note-taking app built with React and Spring Boot. It allows users to create, read, update, and delete notes, and uses a server to persist the notes in a database. The app uses React Router for navigation and React Hooks for managing state and performing data fetching. The app's API is defined in a NoteController class, and the Note class represents a single note. The NoteRepository interface is used to manage the persistence of notes in the database.</p>
 </p>
 
 # Technical Stack
